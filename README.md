@@ -14,6 +14,9 @@ This project is a model-driven app built on Microsoft Dynamics 365 and Power Pla
 - **Notifications**: Inspectors receive an email when assigned, and residents are notified when their complaint is actioned.
 - **Complaint Counts Dashboard**: Visualises complaints per user using embedded Power BI reports.
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/1424aa16-0efb-4e9f-b952-65e9a41ce77d" />
+- **ALTERNATIVE due to licensing - Complaint Counts Dashboard**: Visualises complaints per user using Charts in views .
+- <img width="358" alt="image" src="https://github.com/user-attachments/assets/d3a08382-751a-4882-a30c-07856d1baa13" />
+
 
 ## Prerequisites
 - **Dataverse Environment**: Microsoft Power Apps environment with Dataverse enabled.
@@ -62,7 +65,3 @@ The plugin automates the process of assigning inspectors to complaints in a roun
    - **Primary Entity**: `Complaints`
    - **Execution Mode**: `PreOperation` or `PostOperation`
    - **Stage**: `PreOperation`
-
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
