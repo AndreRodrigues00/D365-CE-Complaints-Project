@@ -13,6 +13,7 @@ This project is a model-driven app built on Microsoft Dynamics 365 and Power Pla
 - **Round-Robin Assignment**: A custom plugin assigns complaints to inspectors in a round-robin fashion.
 - **Notifications**: Inspectors receive an email when assigned, and residents are notified when their complaint is actioned.
 - **Complaint Counts Dashboard**: Visualises complaints per user using embedded Power BI reports.
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/1424aa16-0efb-4e9f-b952-65e9a41ce77d" />
 
 ## Prerequisites
 - **Dataverse Environment**: Microsoft Power Apps environment with Dataverse enabled.
@@ -27,6 +28,10 @@ This project is a model-driven app built on Microsoft Dynamics 365 and Power Pla
    - Automates round-robin assignment of complaints to inspectors.
 3. **Power Automate Flows**:
    - Sends email notifications for complaint updates.
+   - <img width="257" alt="image" src="https://github.com/user-attachments/assets/b5161282-54c5-470c-8087-8aea03122b7f" />
+
+   - <img width="328" alt="image" src="https://github.com/user-attachments/assets/e362cf86-9a2c-48f0-a95a-385ea3163e86" />
+
 4. **Power BI Dashboard**:
    - Visualises complaint trends.
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/1557384a-2b71-447f-b4cd-1d12aab84347" />
